@@ -1,0 +1,176 @@
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.dll.config
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.pdb
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.exe
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.exe.config
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.rsp
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.exe
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.exe.config
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.rsp
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.AppContext.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Collections.Immutable.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Console.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Compression.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.FileSystem.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Pipes.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.AccessControl.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Claims.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.ValueTuple.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XPath.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.exe
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.exe.config
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.rsp
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\VBCSCompiler.exe
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\VBCSCompiler.exe.config
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Antlr3.Runtime.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.SqlServer.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.Web.Infrastructure.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Newtonsoft.Json.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Helpers.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Mvc.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Optimization.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Razor.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Deployment.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Razor.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\WebGrease.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.SqlServer.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Helpers.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Mvc.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Optimization.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Razor.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Deployment.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Razor.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Newtonsoft.Json.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Antlr3.Runtime.pdb
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\EntityFramework.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Helpers.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Mvc.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Optimization.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Razor.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csprojAssemblyReference.cache
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csproj.CoreCompileInputs.cache
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csproj.CopyComplete
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.dll
+D:\rabota_NEW\2.1 Redirect (lite version)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.pdb
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.dll.config
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ShortenUrlWebApplication.pdb
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.exe
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.exe.config
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csc.rsp
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.exe
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.exe.config
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\csi.rsp
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.Managed.Core.targets
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.AppContext.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Collections.Immutable.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Console.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Compression.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.FileSystem.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.IO.Pipes.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Reflection.Metadata.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.AccessControl.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Claims.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Security.Principal.Windows.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.ValueTuple.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XmlDocument.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XPath.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.exe
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.exe.config
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\vbc.rsp
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\VBCSCompiler.exe
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\roslyn\VBCSCompiler.exe.config
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Antlr3.Runtime.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.SqlServer.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.Web.Infrastructure.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Newtonsoft.Json.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Helpers.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Mvc.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Optimization.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Razor.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Deployment.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Razor.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\WebGrease.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\EntityFramework.SqlServer.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Helpers.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Mvc.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Optimization.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.Razor.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Deployment.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\System.Web.WebPages.Razor.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Newtonsoft.Json.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Antlr3.Runtime.pdb
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\EntityFramework.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Helpers.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Mvc.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Optimization.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.Razor.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csprojAssemblyReference.cache
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csproj.CoreCompileInputs.cache
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.csproj.CopyComplete
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.dll
+H:\TEST_11.07.19\Tasks\2. Redirects .NET MVC (EF Code First .mdf)\ShortenUrlWebApplication\ShortenUrlWebApplication\obj\Debug\ShortenUrlWebApplication.pdb

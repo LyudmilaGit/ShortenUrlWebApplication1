@@ -1,0 +1,42 @@
+﻿@model IEnumerable<UrlInfo>
+@{
+    ViewBag.Title = "Shorten URL web application";
+}
+<style>
+    .t-action {
+        width: 170px;
+    }
+</style>
+
+<a href="@Url.Action("Edit", "Actions", new { id = 0 })" class="btn btn-success btn-sm">
+    <span class="glyphicon glyphicon glyphicon-plus-sign"></span> New
+</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Short Name</th>
+            <th scope="col">Url</th>
+            <th scope="col" class="t-action">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model.OrderBy(o => o.Id))
+        {
+            <tr data-id="@row.Id">
+                <th scope="row">@row.Id</th>
+                <td>@row.ShortName</td>
+                <td><a href="@row.Url">@row.Url</a></td>
+                <td>
+                    <a href="@Url.Action("Edit", "Actions", new { id = row.Id })" class="btn btn-info btn-sm">
+                        <span class="glyphicon glyphicon glyphicon-info-sign"></span> Edit
+                    </a>
+                    <a href="@Url.Action("Delete", "Actions", new { id = row.Id })" class="btn btn-danger btn-sm">
+                        <span class="glyphicon glyphicon-remove-sign"></span> Remove
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
